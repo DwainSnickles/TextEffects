@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEffects", "TextEffects.csproj", "{1419D4F2-EAE6-4178-AB75-10E46299D654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDesignerCSLibrary_vs2010", "TextDesignerCSLibrary\TextDesignerCSLibrary_vs2010.csproj", "{43967937-3D38-4DD8-9C63-A486A0BB6DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1419D4F2-EAE6-4178-AB75-10E46299D654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1419D4F2-EAE6-4178-AB75-10E46299D654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1419D4F2-EAE6-4178-AB75-10E46299D654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1419D4F2-EAE6-4178-AB75-10E46299D654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43967937-3D38-4DD8-9C63-A486A0BB6DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43967937-3D38-4DD8-9C63-A486A0BB6DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43967937-3D38-4DD8-9C63-A486A0BB6DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43967937-3D38-4DD8-9C63-A486A0BB6DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC08318E-9513-44AF-BF84-67A1A6386F89}
+	EndGlobalSection
+EndGlobal
